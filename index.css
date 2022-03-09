@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: maroon;
+}
+#container{
+    width: 31%;
+    margin: auto;
+    height: 550px;
+    border: 15px solid maroon;
+    border-radius: 10px;
+    overflow: scroll;
+}
+h3{
+    text-align: center;
+}
